@@ -188,8 +188,8 @@
 	  <Reference Include="S1API">
 	    <HintPath>..\S1API\S1API\bin\MonoMelon\netstandard2.1\S1API.dll</HintPath>
 	  </Reference>
-	  <Reference Include="MAPI">
-	    <HintPath>..\MAPI\bin\Mono\netstandard2.1\MAPI.dll</HintPath>
+	  <Reference Include="S1MAPI">
+	    <HintPath>..\MAPI\bin\Mono\netstandard2.1\S1MAPI.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 

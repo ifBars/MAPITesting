@@ -1,16 +1,16 @@
 using UnityEngine;
-using MAPI.Core;
-using MAPI.Building;
-using MAPI.Utils;
-using MAPI.S1;
-using MAPI.Gltf;
 using S1API.Products;
 using S1API.Doors;
 using S1API.Misc;
 using MAPITesting.Utils;
-using MAPI.Building.Components;
-using MAPI.Building.Config;
-using MAPI.Building.Interior;
+using S1MAPI.Building;
+using S1MAPI.Building.Components;
+using S1MAPI.Building.Config;
+using S1MAPI.Building.Interior;
+using S1MAPI.Core;
+using S1MAPI.Gltf;
+using S1MAPI.S1;
+using S1MAPI.Utils;
 
 namespace MAPITesting.Buildings
 {
