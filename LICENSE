@@ -1,0 +1,89 @@
+Preview Learning-Only License (PLOL)
+Version 1.0
+
+Copyright © 2026 IfBars
+All rights reserved.
+
+1. Purpose & Intent
+The "Work" (this repository and its contents) is provided for learning, reference, and evaluation.
+This is not an open-source license.
+
+2. Definitions
+- "Work" means the original files, assets, examples, and content in this repository.
+- "Substantially Similar" means a work that a reasonable person would recognize as the Work or a lightly modified version of it.
+  This includes cosmetic changes (materials/textures/colors), minor prop swaps, small layout tweaks, renaming, and other changes that do not meaningfully alter the overall structure or identity.
+- "Transformative Work" means a new work that is NOT Substantially Similar to the Work.
+- "Building Configuration" refers to structural parameters (dimensions, openings, proportions) and palette definitions (materials, colors) provided by MAPI's open-source BuildingConfig and BuildingPalette classes.
+
+3. Permissions Granted (What You MAY Do)
+3.1 View, Learn, and Evaluate
+You may view, study, and discuss the Work for educational purposes.
+
+3.2 Use Ideas and Techniques
+You may use general ideas, techniques, and patterns learned from the Work.
+
+3.3 Copy Small Portions of Code ("Snippets")
+You may copy and use limited portions of code from the Work in your own projects (including mods) provided that:
+- The copied portion is not a primary or defining part of an example (i.e., not the "core identity" of an example)
+- You do not copy an entire file or a substantial portion of an example module
+- You do not assemble multiple snippets in a way that reconstructs the example
+- You do not redistribute the Work itself (see Section 4)
+
+3.4 Reuse MAPI Building Configurations
+You MAY use MAPI's open-source BuildingConfig presets (BuildingConfig.Large, BuildingConfig.Medium, etc.)
+and BuildingPalette configurations in your own projects. These are provided under MAPI's MIT license.
+
+3.5 Publish Your Own Transformative Works
+You may publish or distribute your own Transformative Work (including in mods) provided that:
+- It does not include the Work (original files/assets) in whole or in part, except allowed Snippets under Section 3.3
+- It is not Substantially Similar to any example in this repository
+
+4. Restrictions (What You MAY NOT Do)
+4.1 No Redistribution of the Work
+You may not copy, redistribute, publish, sell, sublicense, or share the Work (or any portion of the Work) except as explicitly permitted under Section 3.3.
+
+This prohibition includes (but is not limited to):
+- Reuploading this repository or its contents elsewhere
+- Bundling any of the Work into a mod, asset pack, template, or "example project"
+- Sharing modified versions of the Work that remain Substantially Similar
+
+4.2 No Near-Identical or Disguised Reuploads
+You may not publish or distribute any work that is Substantially Similar to the Work.
+
+IMPORTANT: MAPI (dimensions, openings, palettes) is separate from this Work.
+You may use MAPI's open-source classes in your own projects.
+However, copying the specific decorations, signage, trim profiles, interior layouts, or other distinctive
+elements from this repository's examples remains prohibited under Section 4.1.
+
+Example (Dispensary Building):
+- ALLOWED: Using BuildingConfig.Large with your own custom palette, and different interior decorations/furniture placement.
+- PROHIBITED: Copying the dispensary's "TheGreenLab" green cross sign, exact furniture layout, 
+  or other distinctive elements  that make the example recognizable as originating from this Work.
+
+If the overall structure (shape, proportions, footprint, recognizable layout, or defining structure) remains
+the same AND distinctive decorations/signage are copied, it is NOT transformative and violates this license.
+Transformation requires substantial creative changes beyond materials and colors.
+
+4.3 No Misrepresentation
+You may not claim authorship of the Work or represent the Work (or a Substantially Similar version) as your original creation.
+
+5. Attribution
+Attribution is appreciated but does not grant additional permissions beyond this license.
+
+6. Enforcement
+Any violation terminates the permissions granted by this license. Upon notice, you must promptly remove infringing content.
+
+7. Permission Requests
+If you are unsure whether something is Transformative or Substantially Similar, or if you want broader rights, contact:
+
+Contact: IfBars on Github/Discord
+
+10. Plain-English Summary (Non-Binding)
+
+- You can learn from this
+- You can copy small bits
+- You cannot reupload it
+- You can use MAPI's classes in your own projects
+- You cannot copy the specific decorations, sign, or layouts from these examples
+- If it still looks like this example, it's not allowed
+- If you've made substantial creative changes (not just reskinned), you're probably fine
